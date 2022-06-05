@@ -1,4 +1,4 @@
-package com.codewithmosh.mementoRefactor;
+package com.codewithmosh.mementoRefactor.states;
 
 public class ContentState {
     private final String content;

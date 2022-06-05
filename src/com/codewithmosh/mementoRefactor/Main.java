@@ -1,6 +1,11 @@
 package com.codewithmosh.mementoRefactor;
 
-import com.codewithmosh.memento.Content;
+import com.codewithmosh.mementoRefactor.histories.ContentHistory;
+import com.codewithmosh.mementoRefactor.histories.FontNameHistory;
+import com.codewithmosh.mementoRefactor.histories.FontSizeHistory;
+import com.codewithmosh.mementoRefactor.states.ContentState;
+import com.codewithmosh.mementoRefactor.states.FontNameState;
+import com.codewithmosh.mementoRefactor.states.FontSizeState;
 
 public class Main {
     public static void main(String[] args) {

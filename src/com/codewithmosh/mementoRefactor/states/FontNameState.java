@@ -1,4 +1,4 @@
-package com.codewithmosh.mementoRefactor;
+package com.codewithmosh.mementoRefactor.states;
 
 public class FontNameState {
     private final String fontName;

@@ -1,4 +1,4 @@
-package com.codewithmosh.mementoRefactor;
+package com.codewithmosh.mementoRefactor.states;
 
 public class FontSizeState {
     private final Integer fontSize;
